@@ -27,7 +27,7 @@ from telethon.tl.types import (
 Prompt = List[dict]
 
 # Bot name
-BOT_NAME = "Minnion"
+BOT_NAME = "Mudkip"
 
 SYS_MESS = [
     {
